@@ -1,12 +1,32 @@
-# React + Vite
+# Ben-10 Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React + Vite powered website for the **Ben-10** theme.  
+This project demonstrates a simple front-end application with fast development tooling, ESLint integration, and component-based architecture.
 
-Currently, two official plugins are available:
+## Setup & Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Clone the repository**
 
-## Expanding the ESLint configuration
+   ```bash
+   git clone https://github.com/Ramjeevan13/Ben-10-Website.git
+   cd Ben-10-Website
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. **Install dependencies**
+
+    npm install
+    # or
+    yarn install
+
+
+3. **Start the dev server with:**
+
+    npm run dev
+    # or
+    yarn dev
+
+
+**Screenshots:
+
+<img width="1872" height="883" alt="image" src="https://github.com/user-attachments/assets/a05d42d4-1290-4c77-b132-ff7381593f3c" />
+<img width="1881" height="881" alt="image" src="https://github.com/user-attachments/assets/16b6d799-2740-4d02-bb00-be253bb4b10c" />
+
